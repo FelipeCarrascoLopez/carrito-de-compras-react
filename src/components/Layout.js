@@ -20,7 +20,6 @@ class Layout extends Component {
         return (
         <div style={styles.layout}>
             <div style={styles.container}> 
-                lalala
                 {this.props.children}
             </div>
         </div>
