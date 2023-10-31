@@ -5,7 +5,7 @@ const styles = {
     productos: {
         display: 'flex',
         flexDirection: 'row',
-        justifyContent: 'space-between'
+        justifyContent: 'space-between',
     }
 }
 
